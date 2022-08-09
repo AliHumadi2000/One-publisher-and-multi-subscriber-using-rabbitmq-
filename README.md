@@ -3,6 +3,8 @@
 ## if not then install it 
 # One sub and multi pub for message and image
 
+you can see the code and output from here
+https://humorous-shark-166.notion.site/One-sub-and-multi-pub-for-message-and-image-9082c457a01a4cd0a3bfb33e7aaf864a
 create suscriber code 
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3a22d305-f38f-4458-ad90-c80b8f767472/Untitled.png)
